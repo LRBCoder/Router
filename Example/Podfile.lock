@@ -1,0 +1,16 @@
+PODS:
+  - Router (0.1.0)
+
+DEPENDENCIES:
+  - Router (from `../`)
+
+EXTERNAL SOURCES:
+  Router:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Router: b90826a6ec3afa467059476dff009c05f52135b2
+
+PODFILE CHECKSUM: 91a12d2969cb9c7f7e9bf16fda94f69e10d8a88a
+
+COCOAPODS: 1.11.2
